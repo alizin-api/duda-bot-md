@@ -1,26 +1,4 @@
-<h2 align="center">🤖  DUDA-BOT-MD V1</h2>
 
-
-
-<p align="center">
-<a href="https://javascript.com">
-<img src="https://img.shields.io/badge/JavaScript-v16-yellow">
-</a>
-</p>
- 
-###
-
-  
-  <h2 align="center">🥷🏾🙅🏾‍♂️  PRINCIPAIS</h2>
-
-- [x] Consulta de nome
-- [x] Consulta de cpf
-- [x] Consulta de telefone
-- [x] Consulta de ip
-- [x] Consulta de cep
-- [x] Consulta de cnpj
-
-```
 <img src="https://readme-typing-svg.herokuapp.com/?font=mono&size=30&duration=4000&color=FF1493&center=falso&vCenter=falso&lines=𝐃𝐔𝐃𝐀-𝐁𝐎𝐓+𝐕3;𝐅𝐀𝐒𝐄+𝐁𝐄𝐓𝐀+𝐂𝐎𝐌+𝐌𝐀𝐈𝐒+𝐃𝐄;1000+𝐂𝐎𝐌𝐀𝐍𝐃𝐎𝐒;𝖆𝖑𝖎𝖟𝖎𝖓-𝖉𝖊𝖛-𝖉𝖔𝖒𝖎𝖓𝖆✰✰✰✰✰">      
 
 <h1 align="center">
@@ -73,7 +51,6 @@ sh fazer-outro-qr-code.sh
 ```
 
 
-```
 
  <h2 align="center">⚙️ INSTRUÇÕES</h2>
 
